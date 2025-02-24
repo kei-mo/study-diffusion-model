@@ -3,6 +3,11 @@
 - 合わせてSongらの以下の論文も参照
     - SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS
     - https://arxiv.org/pdf/2011.13456
+- SDEの観点でとらえることにより
+    - サンプリング速度・品質改善
+        - 例えば
+    - 安定性の改善がされる
+    - ノイズスケジューリングの最適化 
 
 
 # サマリー
